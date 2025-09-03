@@ -1,4 +1,4 @@
-## Ответ на задачу с Codewars[https://www.codewars.com]
+## Ответ на задачу с [Codewars](https://www.codewars.com)
 
 Суть задачи:
 
